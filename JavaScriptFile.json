@@ -3394,7 +3394,7 @@
     },
     {
       "PacketID": 341,
-      "Title": "Communicating with Workers",
+      "Title": "Communicating \n with Workers",
       "Resume": null,
       "Selected": false,
       "ParentID": 99,
@@ -3404,7 +3404,7 @@
     },
     {
       "PacketID": 342,
-      "Title": "Establishing Connections",
+      "Title": "Establishing \n Connections",
       "Resume": null,
       "Selected": false,
       "ParentID": 100,
@@ -3414,7 +3414,7 @@
     },
     {
       "PacketID": 343,
-      "Title": "Sending and Receiving Messages",
+      "Title": "Sending and Receiving \n Messages",
       "Resume": null,
       "Selected": false,
       "ParentID": 100,
